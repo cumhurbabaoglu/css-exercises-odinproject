@@ -2,3 +2,8 @@
     background-color: lch(76.15% 29.22 10.61);
     font-family: Verdana, "Dejavu Sans", sans-serif;
 }
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
