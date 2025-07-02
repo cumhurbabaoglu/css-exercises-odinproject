@@ -36,6 +36,8 @@ a {
 .left-links ul {
   display: flex;
   gap: 10px;
+  height: 100%;
+  align-items: center;
 }
 
 .right-links ul {
