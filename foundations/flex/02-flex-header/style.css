@@ -35,8 +35,10 @@ a {
 
 .left-links ul {
   display: flex;
+  gap: 10px;
 }
 
 .right-links ul {
   display: flex;
+  gap: 10px;
 }
