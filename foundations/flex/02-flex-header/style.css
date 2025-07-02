@@ -36,3 +36,7 @@ a {
 .left-links ul {
   display: flex;
 }
+
+.right-links ul {
+  display: flex;
+}
