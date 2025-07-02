@@ -43,4 +43,6 @@ a {
 .right-links ul {
   display: flex;
   gap: 10px;
+  height: 100%;
+  align-items: center;
 }
