@@ -41,4 +41,5 @@ img {
   display: flex;
   flex-wrap: wrap;
   width: 200px;
+  text-align: center;
 }
