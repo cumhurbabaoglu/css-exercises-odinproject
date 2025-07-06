@@ -34,13 +34,10 @@ img {
   gap: 52px;
 }
 
-.barberry {
-  display: flex;
-  flex-wrap: wrap;
-  width: 200px;
-}
-
-.chili {
+.barberry,
+.chili,
+.pepper,
+.saffron {
   display: flex;
   flex-wrap: wrap;
   width: 200px;
