@@ -30,4 +30,5 @@ img {
 
 .plants-container {
   display: flex;
+  gap: 52px;
 }
