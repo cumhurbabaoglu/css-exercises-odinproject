@@ -39,3 +39,9 @@ img {
   flex-wrap: wrap;
   width: 200px;
 }
+
+.chili {
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+}
