@@ -38,7 +38,8 @@ a {
   justify-content: space-between;
 }
 
-.left-links {
+.left-links,
+.right-links {
   display: flex;
   gap: 10px;
 }
