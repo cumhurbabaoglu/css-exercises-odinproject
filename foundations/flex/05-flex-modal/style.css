@@ -84,3 +84,7 @@ button.cancel {
   flex-direction: column;
   gap: 10px;
 }
+
+.buttons {
+  margin-top: 5px;
+}
