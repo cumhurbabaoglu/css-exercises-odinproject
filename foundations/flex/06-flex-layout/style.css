@@ -52,3 +52,7 @@ a {
   display: flex;
   gap: 10px;
 }
+
+.content {
+  margin: 0 auto;
+}
