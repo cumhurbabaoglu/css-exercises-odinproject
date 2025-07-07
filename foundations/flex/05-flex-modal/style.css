@@ -78,8 +78,9 @@ button.cancel {
   align-items: center;
   font-weight: bold;
   font-size: 20px;
+  margin-bottom: 12px;
 }
 
 .buttons {
-  margin-top: 5px;
+  margin-top: 12px;
 }
