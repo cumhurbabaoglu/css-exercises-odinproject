@@ -67,3 +67,7 @@ ul {
   max-width: 1200px;
   gap: 24px;
 }
+
+li {
+  margin-bottom: 12px;
+}
